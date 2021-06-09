@@ -15,6 +15,4 @@
 
 ![skuIIs GitHub stats](https://github-readme-stats.vercel.app/api?username=skuIIs&theme=dracula&show_icons=true&count_private=true)
 
-[![ASH CSS](https://github-readme-stats.vercel.app/api/pin/?username=ash-rocks&repo=ash-css&theme=dracula&show_owner=true)](https://github.com/ash-rocks/ash-css)
-
 ![Visitors](https://komarev.com/ghpvc/?username=skuIIs&label=Visitors&color=ff6e96)
